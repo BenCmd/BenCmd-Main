@@ -1,0 +1,18 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+
+[@run("include/vars.i");]
+
+<HTML>
+<HEAD>
+<TITLE>Error 403 - BenCmd</TITLE>
+[@include("include/css.i");]
+</HEAD>
+<BODY>
+[@include("include/header.i");]
+<H1>Error 403: Access Denied</H1>
+<DIV CLASS="box">
+You are not allowed to view this page. If you are not logged in, you can <A HREF="[@out(nav+login+href);]">log in</A> or <A HREF="[@out(nav+register+href);]">register a new account</A>. If you are logged in, your account may not have permission to view this page. If you believe that this page is being displayed in error, please report this to <A HREF="mailto:[@out(sys+mail);]">[@out(sys+mail);]</A>. When reporting, please include the following technical information: <TT>[@out(sys+errorCode);]</TT>.
+</DIV>
+</BODY>
+</HTML>

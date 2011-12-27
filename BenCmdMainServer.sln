@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BenCmdMainServer", "BenCmdMainServer\BenCmdMainServer.csproj", "{BC8B1A7F-E69E-450A-A15D-CC2927D2AF1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BScriptParser", "BScriptParser\BScriptParser.csproj", "{4B8F2DF5-684F-4E27-B94B-1B6DF96B254D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B8F2DF5-684F-4E27-B94B-1B6DF96B254D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{4B8F2DF5-684F-4E27-B94B-1B6DF96B254D}.Debug|x86.Build.0 = Debug|Any CPU
+		{4B8F2DF5-684F-4E27-B94B-1B6DF96B254D}.Release|x86.ActiveCfg = Release|Any CPU
+		{4B8F2DF5-684F-4E27-B94B-1B6DF96B254D}.Release|x86.Build.0 = Release|Any CPU
+		{BC8B1A7F-E69E-450A-A15D-CC2927D2AF1B}.Debug|x86.ActiveCfg = Debug|x86
+		{BC8B1A7F-E69E-450A-A15D-CC2927D2AF1B}.Debug|x86.Build.0 = Debug|x86
+		{BC8B1A7F-E69E-450A-A15D-CC2927D2AF1B}.Release|x86.ActiveCfg = Release|x86
+		{BC8B1A7F-E69E-450A-A15D-CC2927D2AF1B}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = BenCmdMainServer\BenCmdMainServer.csproj
+	EndGlobalSection
+EndGlobal

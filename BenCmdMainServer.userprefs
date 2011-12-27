@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BenCmdMainServer/bin/Debug/servers.db">
+    <Files>
+      <File FileName="BenCmdMainServer/bin/Debug/banlists/main.bcban" Line="3" Column="9" />
+      <File FileName="BenCmdMainServer/Control/BCBanlistController.cs" Line="55" Column="1" />
+      <File FileName="BenCmdMainServer/Control/BCBanlist.cs" Line="97" Column="51" />
+      <File FileName="BenCmdMainServer/Control/BCBanlistEntry.cs" Line="26" Column="64" />
+      <File FileName="BenCmdMainServer/bin/Debug/servers.db" Line="1" Column="1" />
+      <File FileName="BenCmdMainServer/MainServer.cs" Line="1" Column="1" />
+      <File FileName="BenCmdMainServer/Main.cs" Line="15" Column="68" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
